@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.progress-btn {
+  background-color: rgba(79, 70, 229);
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.nav {
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fa-signal {
+  font-size: 20px;
+  color: white;
+  margin-left: 5px;
+}
